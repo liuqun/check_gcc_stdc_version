@@ -20,3 +20,5 @@
   - C11标准 ISO/IEC 9899:2011 (官网可免费下载N1570草案版本) http://www.open-std.org/jtc1/sc22/WG14/www/docs/n1570.pdf
   - C99标准 ISO/IEC 9899:1999 (官网可免费下载N1256草案版本) http://www.open-std.org/jtc1/sc22/WG14/www/docs/n1256.pdf
   - ANSI X3.159-1989和ISO/IEC 9899:1990是最老的C语言国际标准, 因年代过于久远, 目前已经无法从官网下载. 需要查询国外公开发行的纸质版本.
+
+4. https://stackoverflow.com/questions/81656/where-do-i-find-the-current-c-or-c-standard-documents
